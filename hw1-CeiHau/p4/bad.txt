@@ -1,0 +1,17 @@
+This is a document that contains code code-snippets of bash. Here is one example
+
+---
+$ seq 2
+1
+2
+$ ls
+doc.txt p4.sh
+---
+
+Here is another example
+
+---
+$ VAR=5
+$ echo "$VAR"
+9
+----
